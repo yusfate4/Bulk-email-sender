@@ -1,8 +1,12 @@
 # PHP Bulk Email Sender Project
 
+
 ## In my Bulk Email Sender project, I designed and implemented a robust solution using PHP to facilitate the efficient sending of emails in bulk. This project is geared towards streamlining email communication for various purposes, such as newsletters, announcements, or marketing campaigns.
 
+![Screenshot from 2023-12-19 11-51-42](https://github.com/yusfate4/Bulk-email-sender/assets/65573250/9de1fa7e-d6d1-4067-8430-e4ce9d6cd026)
+
 ## Key Features:
+
 
 - **Dynamic Recipient Management:** The project allows for the dynamic management of email recipients, making it easy to customize and target specific audiences.
 
